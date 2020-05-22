@@ -12,11 +12,11 @@ This repository contains the technical aspects of Data Science IP submission wee
 ## Files in the Repository
 
 The repository contains the following files/folders:
-**{
-    license: MIT
-    google collab notebook: ip.ipynb
-    README: This README.
-}**
+
+    *license: MIT
+    *google collab notebook: ip.ipynb
+    *README: This README.
+
 ## Packages
 
 The following packages are necessary to run the cells in IP.ipynb:
